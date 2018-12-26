@@ -22,10 +22,10 @@ p{
 
 }
 .img-circle{
-    border: 1px solid    red;
+    border: 1px solid    rgb(47, 204, 231);
 }
 b{
-    color:red;
+    color:rgb(47, 204, 231);;
     font-size:20px;
 }
 button{
@@ -57,4 +57,12 @@ img:hover{
     -webkit-transform: scale(1.15);
     /* transform: scale(1.1);  */
   
+}
+
+/* footer */
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color:rgb(47, 204, 231);
+    box-shadow: gray 2px;;
 }
